@@ -41,7 +41,7 @@ params:
   profileMode:
     enabled: true
     title: "广州 KUG"
-    subtitle: Hi, 这里是广州 KUG，欢迎所有对 Kotlin 感兴趣的开发者加入我们的组织
+    subtitle: Hi, 这里是广州 KUG，欢迎所有对 Kotlin 感兴趣的开发者加入我们！
     imageUrl: "kug-logo.png"
     imageTitle: "KUG logo"
     imageWidth: 240
