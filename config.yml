@@ -1,6 +1,6 @@
-baseURL: https://gzkug.com/
+baseURL: https://tianjinkug.com/
 languageCode: zh-CN
-title: 广州 KUG
+title: 天津 KUG
 theme: "PaperMod"
 enableRobotsTXT: true
 
@@ -14,19 +14,19 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: 广州 KUG
-  description: "广州 Kotlin 用户组"
+  title: 天津 KUG
+  description: "天津 Kotlin 用户组"
   keywords:
     [
       Kotlin,
       Kotlin User Group,
-      Guangzhou Kotlin User Group,
-      广州 Kotlin 用户组,
+      Tianjin Kotlin User Group,
+      天津 Kotlin 用户组,
       KUG,
-      Guangzhou KUG,
-      广州 KUG,
+      Tianjin KUG,
+      天津 KUG,
     ]
-  author: gzkug
+  author: tianjinkug
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -36,12 +36,12 @@ params:
     favicon: "kug-logo.png"
 
   label:
-    text: "广州 KUG"
+    text: "天津 KUG"
 
   profileMode:
     enabled: true
-    title: "广州 KUG"
-    subtitle: Hi there 👋, 这里是广州 KUG，欢迎所有对 Kotlin 感兴趣的开发者加入我们！
+    title: "天津 KUG"
+    subtitle: Hi there 👋, 这里是天津 KUG，欢迎所有对 Kotlin 感兴趣的开发者加入我们！
     imageUrl: "kug-logo.png"
     imageTitle: "KUG logo"
     imageWidth: 240
@@ -49,9 +49,9 @@ params:
 
   socialIcons:
     - name: GitHub
-      url: "https://github.com/gzkug"
+      url: "https://github.com/tianjinkug"
     - name: Email
-      url: "mailto:linroid+gzkug@gmail.com"
+      url: "mailto:tianjinkug@163.com"
 
   ShowReadingTime: false
   ShowShareButtons: true
@@ -97,7 +97,7 @@ menu:
   main:
     - identifier: events
       name: 历史活动
-      url: https://github.com/gzkug/events/issues
+      url: https://github.com/tianjinkug/events/issues
       weight: 1
     - identifier: official
       name: 全球 KUGs
