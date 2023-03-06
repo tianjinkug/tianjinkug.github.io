@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>天津 KUG</title>
-    <link>https://tianjinkug.com/</link>
+    <link>https://tianjinkug.github.io/</link>
     <description>Recent content on 天津 KUG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://tianjinkug.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://tianjinkug.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
